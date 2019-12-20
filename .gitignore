@@ -9,6 +9,13 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.cap
+*.kismet.csv
+*.kismet.netxml
+*.log.csv
+*.csv
+*.ivs
+*.gps
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
